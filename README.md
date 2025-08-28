@@ -21,4 +21,5 @@ Objetivo: Busque minha primeira oportunidade como Desenvolvedor Júnior ou Estag
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/Lucas3255"><img src="https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de Lucas3255" /></a>
+<a href="http://www.github.com/Lucas3255"><img src="https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lucas3255's GitHub stats" /></a>
+<a href="https://github.com/Lucas3255" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas3255&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
