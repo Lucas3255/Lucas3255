@@ -1,6 +1,20 @@
-#Hello World my Dear Programmer!!!
-Eu sou Lucas Henrique Dias, tenho 18 anos, sou estudante de Ciências da Computação, Possuo um curso técnico em Desenvolvimento de Sistemas, estou fazendo um curso de Back-End em Python e estou sempre me tentando aprimorar em TI (Tecnologia da Informação). No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar: \- Linguagens: Python, JavaScript. \- Front-End: HTML5 e CSS. \- Lógica de Programação. \- Fundação de Redes de Computadores Objetivo: Busque minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI para aprender com outros desenvolvedores, contribuir para projetos desafiadores e crescer profissionalmente. * 🌍 Brasil, Recife, PE. * ✉️ Você pode entrar em contato comigo em [lucasfaculdade2025@gmail.com](mailto:lucasfaculdade2025@gmail.com) * 🧠 Atualmente estou aprendendo Back-End em Python
+<h1>Hello World!</h1>
 
+Eu sou Lucas Henrique Dias, tenho 18 anos, sou estudante de Ciências da Computação, Possuo um curso técnico em Desenvolvimento de Sistemas, estou fazendo um curso de Back-End em Python e estou sempre me tentando aprimorar em TI (Tecnologia da Informação).
+
+No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:
+   - Linguagens: Python, JavaScript.
+   - Front-End: HTML5 e CSS.
+   - Lógica de Programação.
+   - Fundação de Redes de Computadores.
+
+Objetivo: Busque minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI para aprender com outros desenvolvedores, contribuir para projetos desafiadores e crescer profissionalmente.
+
+🌍 Brasil, Recife, PE.
+
+✉️ [lucasfaculdade2025@gmail.com](mailto:lucasfaculdade2025@gmail.com)
+
+<h3>Hard Skills</h3>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
