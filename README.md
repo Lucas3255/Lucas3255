@@ -45,3 +45,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas3255)
 
 </div>
+
+<h3>📄 Licença</h3>
+<p>Este perfil e projetos relacionados estão licenciados sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
+https://img.shields.io/badge/License-MIT-yellow.svg
+
+</p>
+
+
+
