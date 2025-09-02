@@ -1,26 +1,47 @@
-<h1>Hello World!</h1>
+<h1>👋 Hello World! Sou Lucas Henrique Dias</h1>
 
-Eu sou Lucas Henrique Dias, tenho 18 anos, sou estudante de Ciências da Computação, Possuo um curso técnico em Desenvolvimento de Sistemas, estou fazendo um curso de Back-End em Python e estou sempre me tentando aprimorar em TI (Tecnologia da Informação).
+<h3>🧑‍💻 Sobre Mim</h3>
+<p>Tenho 18 anos, sou estudante de <strong>Ciências da Computação</strong> e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
+   Atualmente estou me especializando em <strong>Back-End com Python</strong> e sempre buscando me aprimorar na área de <strong>Tecnologia da Informação</strong>.</p>
 
-No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:
-   - Linguagens: Python, JavaScript.
-   - Front-End: HTML5 e CSS.
-   - Lógica de Programação.
-   - Fundação de Redes de Computadores.
+<h3>🚀 Foco Atual</h3>
+<p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
+      - <strong>Linguagens:</strong> Python, JavaScript.<br>
+      - <strong>Front-End:</strong> HTML5 e CSS.<br>
+      - <strong>Lógica de Programação.</strong><br>
+      - <strong>Redes de Computadores.</strong></p>
 
-Objetivo: Busque minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário em TI para aprender com outros desenvolvedores, contribuir para projetos desafiadores e crescer profissionalmente.
+<h3>🎯 Objetivo Profissional</h3>
+<p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário em TI</strong> para:<br>
+      - Aprender com desenvolvedores experientes.<br>
+      - Contribuir para projetos desafiadores.<br>
+      - Crescer profissionalmente na área.</p>
 
-🌍 Brasil, Recife, PE.
+<h3>📍 Localização</h3>
+<p>🌍 Brasil, Jaboatão dos Guararapes, PE.</p>
 
-✉️ [lucasfaculdade2025@gmail.com](mailto:lucasfaculdade2025@gmail.com)
+<h3>📞 Contato</h3>
+<p>✉️ Email: lucasfaculdade2025@gmail.com</p>
 
-<h3>Hard Skills</h3>
+<h3>💻 Hard Skills</h3>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
 
-<h3>Minhas estatísticas do GitHub</h3>
+<h3>📊 Estatísticas do GitHub</h3>
+<div align="left">
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&theme=radical)
 
-<a href="http://www.github.com/Lucas3255"><img src="https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Lucas3255's GitHub stats" /></a>
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas3255&layout=compact&theme=radical)
 
-<a href="https://github.com/Lucas3255" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas3255&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
+<h3>🔗 Conecte-se Comigo</h3>
+<div align="left">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfaculdade2025@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucas-henrique-dias-345666346/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucas3255)
+
+</div>
