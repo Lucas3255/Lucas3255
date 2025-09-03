@@ -47,11 +47,13 @@
 </div>
 
 <h3>📄 Licença</h3>
-<p>Este perfil e projetos relacionados estão licenciados sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+<p>Este perfil e projetos relacionados estão licenciados sob a 
+<a href="LICENSE" target="_blank">Licença MIT</a> - 
+veja o arquivo <a href="LICENSE" target="_blank">LICENSE</a> para detalhes.
 
-https://img.shields.io/badge/License-MIT-yellow.svg
-
-</p>
+<a href="https://opensource.org/licenses/MIT" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Licença MIT">
+</a></p>
 
 
 
