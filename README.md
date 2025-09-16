@@ -6,10 +6,10 @@
 
 <h3>🚀 Foco Atual</h3>
 <p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
-      - <strong>Linguagens:</strong> Python, JavaScript.<br>
-      - <strong>Front-End:</strong> HTML5 e CSS.<br>
+      - <strong>Linguagens:</strong> Python.<br>
       - <strong>Lógica de Programação.</strong><br>
       - <strong>Redes de Computadores.</strong></p>
+      - <strong>Cálculo Diferencial e Integral.</strong></p>
 
 <h3>🎯 Objetivo Profissional</h3>
 <p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário em TI</strong> para:<br>
