@@ -8,7 +8,7 @@
 <p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
       - <strong>Linguagens:</strong> Python.<br>
       - <strong>Lógica de Programação.</strong><br>
-      - <strong>Redes de Computadores.</strong></p>
+      - <strong>Redes de Computadores.</strong><br>
       - <strong>Cálculo Diferencial e Integral.</strong></p>
 
 <h3>🎯 Objetivo Profissional</h3>
