@@ -1,7 +1,7 @@
 <h1>👋 Hello World! Sou Lucas Henrique Dias</h1>
 
 <h3>🧑‍💻 Sobre Mim</h3>
-<p>Tenho 18 anos, sou estudante de <strong>Ciências da Computação</strong> e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
+<p>   Tenho 19 anos, sou estudante de <strong>Ciências da Computação</strong> e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
    Atualmente estou me especializando em <strong>Back-End com Python</strong> e sempre buscando me aprimorar na área de <strong>Tecnologia da Informação</strong>.</p>
 
 <h3>🚀 Foco Atual</h3>
