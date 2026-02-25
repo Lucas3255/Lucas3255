@@ -1,15 +1,16 @@
 <h1>👋 Hello World! Sou Lucas Henrique Dias</h1>
 
 <h3>🧑‍💻 Sobre Mim</h3>
-<p>   Tenho 19 anos, sou estudante de <strong>Ciências da Computação</strong> e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
+<p>   Tenho 19 anos, sou estudante de <strong>Ciências da Computação</strong> (3 período) e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
    Atualmente estou me especializando em <strong>Back-End com Python</strong> e sempre buscando me aprimorar na área de <strong>Tecnologia da Informação</strong>.</p>
 
 <h3>🚀 Foco Atual</h3>
 <p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
-      - <strong>Linguagens:</strong> Python.<br>
+      - <strong>Linguagens:</strong> C Estruturado, HTML, CSS, JavaScript e PHP.<br>
       - <strong>Lógica de Programação.</strong><br>
-      - <strong>Redes de Computadores.</strong><br>
-      - <strong>Cálculo Diferencial e Integral.</strong></p>
+      - <strong>Banco de Dados.</strong><br>
+      - <strong>Computação em Nuvem.</strong><br>
+      - <strong>Cálculo de Múltiplas Variáveis.</strong></p>
 
 <h3>🎯 Objetivo Profissional</h3>
 <p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário em TI</strong> para:<br>
