@@ -6,14 +6,13 @@
 
 <h3>🚀 Foco Atual</h3>
 <p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
-      - <strong>Linguagens:</strong> C Estruturado, HTML, CSS, JavaScript e PHP.<br>
-      - <strong>Lógica de Programação.</strong><br>
+      - <strong>Linguagens:</strong> HTML, CSS, JavaScript e PHP.<br>
       - <strong>Banco de Dados.</strong><br>
       - <strong>Computação em Nuvem.</strong><br>
       - <strong>Cálculo de Múltiplas Variáveis.</strong></p>
 
 <h3>🎯 Objetivo Profissional</h3>
-<p>Busco minha primeira oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário em TI</strong> para:<br>
+<p>Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<br>
       - Aprender com desenvolvedores experientes.<br>
       - Contribuir para projetos desafiadores.<br>
       - Crescer profissionalmente na área.</p>
