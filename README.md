@@ -31,9 +31,9 @@
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="left">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas3255&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas-henriquedias&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas3255&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henriquedias&layout=compact&theme=radical)
 
 </div>
 
