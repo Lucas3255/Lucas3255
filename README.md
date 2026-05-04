@@ -73,7 +73,7 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
 
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=lucas-henriquedias&theme=radical"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=lucas-henriquedias&theme=radical&cache_seconds=86400"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-henriquedias&theme=radical"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-henriquedias&theme=radical"/>
 </div>
