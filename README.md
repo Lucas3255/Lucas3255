@@ -69,7 +69,7 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
   <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
 </div>
 
-<br>
+<hr>
 
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="center">
@@ -83,12 +83,13 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
 <h3>📄 Licença</h3>
 <p>
 Este perfil e projetos estão sob a Licença MIT.
+<a href="https://opensource.org/licenses/MIT" target="_blank">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</a>
 </p>
 
-<a href="https://opensource.org/licenses/MIT" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-</a>
 
+<br>
 </td>
 
 </tr>
