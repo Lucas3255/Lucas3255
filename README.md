@@ -1,68 +1,95 @@
 <div align="center">
-  <h1>👋 Olá, eu sou o Lucas</h1>
+  <h1>👋🏽 Hello World! Eu sou Lucas Henrique Dias</h1>
   <p>💻 Desenvolvedor Web | Backend em evolução</p>
 </div>
 
-<h1>👋 Hello World! Sou Lucas Henrique Dias</h1>
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🧑‍💻 Sobre Mim</h3>
-<p>   Tenho 19 anos, sou estudante de <strong>Ciências da Computação</strong> (3 período) e técnico em <strong>Desenvolvimento de Sistemas</strong>. 
-   Atualmente estou me especializando em <strong>Back-End com Python</strong> e sempre buscando me aprimorar na área de <strong>Tecnologia da Informação</strong>.</p>
+<p>
+Tenho 19 anos e sou estudante de <strong>Ciências da Computação</strong> (3º período), 
+com formação técnica em <strong>Desenvolvimento de Sistemas</strong>.
 
-<h3>🚀 Foco Atual</h3>
-<p>No momento, estou me dedicando aos fundamentos e desenvolvendo projetos para praticar:<br>
-      - <strong>Linguagens:</strong> HTML, CSS, JavaScript e PHP.<br>
-      - <strong>Banco de Dados.</strong><br>
-      - <strong>Computação em Nuvem.</strong><br>
-      - <strong>Cálculo de Múltiplas Variáveis.</strong></p>
+Atualmente, estou focado em me tornar um desenvolvedor <strong>Back-End</strong>, 
+aprofundando meus conhecimentos em <strong>Python</strong>, <strong>bancos de dados</strong> 
+e construção de <strong>aplicações web</strong>.
 
-<h3>🎯 Objetivo Profissional</h3>
-<p>Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<br>
-      - Aprender com desenvolvedores experientes.<br>
-      - Contribuir para projetos desafiadores.<br>
-      - Crescer profissionalmente na área.</p>
-
-<h3>📍 Localização</h3>
-<p>🌍 Brasil, Jaboatão dos Guararapes, PE.</p>
-
-<h3>📞 Contato</h3>
-<p>✉️ Email: lucasfaculdade2025@gmail.com</p>
-
-<h3>💻 Hard Skills</h3>
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+Busco evoluir constantemente através de projetos práticos, consolidando fundamentos 
+e adquirindo experiência real em desenvolvimento.
 </p>
 
+<hr>
+
+<h3>🚀 Foco Atual</h3>
+<p>
+- <strong>Linguagens:</strong> HTML, CSS, JavaScript e PHP.<br>
+- <strong>Banco de Dados</strong><br>
+- <strong>Computação em Nuvem</strong><br>
+- <strong>Cálculo de Múltiplas Variáveis</strong>
+</p>
+
+<hr>
+
+<h3>🎯 Objetivo Profissional</h3>
+<p>
+Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<br>
+- Aprender com desenvolvedores experientes.br>
+- Contribuir para projetos desafiadores.<br>
+- Crescer profissionalmente na área.
+</p>
+
+<hr>
+
+<h3>📍 Localização</h3>
+<p>🌍 Brasil, Jaboatão dos Guararapes - PE</p>
+
+<hr>
+
+<h3>🔗 Conecte-se comigo</h3>
+
+<a href="mailto:lucasfaculdade2025@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/lucas-henrique-dias-345666346/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/lucas-henriquedias" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 Hard Skills</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql,git,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
 </div>
+
+<br>
 
 <h3>📊 Estatísticas do GitHub</h3>
-<div align="left">
-  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas-henriquedias&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henriquedias&layout=compact&theme=radical)
-
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-henriquedias&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henriquedias&layout=compact&theme=radical&cache_seconds=1800"/>
 </div>
 
-<h3>🔗 Conecte-se Comigo</h3>
-<div align="left">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasfaculdade2025@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](www.linkedin.com/in/lucas-henrique-dias-345666346))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucas-henriquedias)
-
-</div>
+<hr>
 
 <h3>📄 Licença</h3>
-<p>Este perfil e projetos relacionados estão licenciados sob a 
-<a href="LICENSE" target="_blank">Licença MIT</a> - 
-veja o arquivo <a href="LICENSE" target="_blank">LICENSE</a> para detalhes.
+<p>
+Este perfil e projetos estão sob a Licença MIT.
+</p>
 
 <a href="https://opensource.org/licenses/MIT" target="_blank">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Licença MIT">
-</a></p>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</a>
 
+</td>
 
-
+</tr>
+</table>
