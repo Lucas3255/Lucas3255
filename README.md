@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>👋🏽 Hello World! Eu sou Lucas Henrique Dias</h1>
-  <p>💻 Desenvolvedor Web | Backend em evolução</p>
+  <h1>👋🏽 Hello World! Eu sou Lucas Henrique Dias</h1><br>
 </div>
 
 <table>
@@ -26,9 +25,9 @@ e adquirindo experiência real em desenvolvimento.
 <h3>🚀 Foco Atual</h3>
 <p>
 - <strong>Linguagens:</strong> HTML, CSS, JavaScript e PHP.<br>
-- <strong>Banco de Dados</strong><br>
-- <strong>Computação em Nuvem</strong><br>
-- <strong>Cálculo de Múltiplas Variáveis</strong>
+- <strong>Banco de Dados.</strong><br>
+- <strong>Computação em Nuvem.</strong><br>
+- <strong>Cálculo de Múltiplas Variáveis.</strong>
 </p>
 
 <hr>
@@ -36,7 +35,7 @@ e adquirindo experiência real em desenvolvimento.
 <h3>🎯 Objetivo Profissional</h3>
 <p>
 Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<br>
-- Aprender com desenvolvedores experientes.br>
+- Aprender com desenvolvedores experientes.<br>
 - Contribuir para projetos desafiadores.<br>
 - Crescer profissionalmente na área.
 </p>
@@ -44,7 +43,7 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
 <hr>
 
 <h3>📍 Localização</h3>
-<p>🌍 Brasil, Jaboatão dos Guararapes - PE</p>
+<p>🌍 Brasil, Jaboatão dos Guararapes - PE.</p>
 
 <hr>
 
@@ -74,8 +73,9 @@ Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<
 
 <h3>📊 Estatísticas do GitHub</h3>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-henriquedias&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henriquedias&layout=compact&theme=radical&cache_seconds=1800"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=lucas-henriquedias&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-henriquedias&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-henriquedias&theme=radical"/>
 </div>
 
 <hr>
