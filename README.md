@@ -34,7 +34,7 @@ e adquirindo experiência real em desenvolvimento.
 
 <h3>🎯 Objetivo Profissional</h3>
 <p>
-Busco minha primeira oportunidade como <strong>Estagiário em TI</strong> para:<br>
+Busco oportunidade como <strong>Estagiário em TI</strong> para:<br>
 - Aprender com desenvolvedores experientes.<br>
 - Contribuir para projetos desafiadores.<br>
 - Crescer profissionalmente na área.
