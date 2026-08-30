@@ -9,7 +9,7 @@
 
 <h3>🧑‍💻 Sobre Mim</h3>
 <p>
-Tenho 19 anos e sou estudante de <strong>Ciências da Computação</strong> (3º período), 
+Tenho 19 anos e sou estudante de <strong>Ciências da Computação</strong> (4º período), 
 com formação técnica em <strong>Desenvolvimento de Sistemas</strong>.
 
 Atualmente, estou focado em me tornar um desenvolvedor <strong>Back-End</strong>, 
@@ -24,10 +24,11 @@ e adquirindo experiência real em desenvolvimento.
 
 <h3>🚀 Foco Atual</h3>
 <p>
-- <strong>Linguagens:</strong> HTML, CSS, JavaScript e PHP.<br>
-- <strong>Banco de Dados.</strong><br>
-- <strong>Computação em Nuvem.</strong><br>
-- <strong>Cálculo de Múltiplas Variáveis.</strong>
+- <strong>Estrutura de Dados.</strong><br>
+- <strong>DevOps.</strong><br>
+- <strong>Engenharia de Software.</strong><br>
+- <strong>Sistemas Operacionais.</strong><br>
+- <strong>Geometria Analítica e Álgebra Linear.</strong>
 </p>
 
 <hr>
